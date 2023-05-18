@@ -1,0 +1,5 @@
+NAme    = Subhranil mondal
+Roll    = 17600121001
+sem     = 2nd
+College = HETC
+This is Somu

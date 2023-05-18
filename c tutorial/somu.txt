@@ -1,0 +1,4 @@
+Name_=_Subhranil_Mondal
+Roll = 17600121001
+College = HETC
+Sem = 2nd
